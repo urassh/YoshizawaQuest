@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #0f2b46;
+}
+
+button {
+  all: unset;
+}
+
+.quiz-container h1 {
+  font-family: "ヒラギノ丸ゴ ProN";
+  margin: 8px 0;
+}
+.quiz-container #quiz-text {
+  font-family: "ヒラギノ丸ゴ ProN";
+  text-align: left;
+  font-size: 14px;
+  background-color: #ddd;
+  padding: 8px;
+}
+.quiz-container .answer-buttons {
+  width: 100%;
+  margin-top: 16px;
+  word-wrap:break-word;
+}
+.quiz-container .answer-buttons button {
+  width: 100%;
+  padding: 16px 0;
+  margin-top: 16px;
+  border-radius: 8px;
+  color: white;
+  
+}
+.quiz-container .answer-buttons .button-1 {
+  background-color: #ff4343;
+}
+.quiz-container .answer-buttons .button-2 {
+  background-color: #4366ff;
+}
+.quiz-container .answer-buttons .button-3 {
+  background-color: #04c217;
+}
+.quiz-container .answer-buttons .button-4 {
+  background-color: #ffae2b;
+}
+
+#result-form {
+  width: 330px;
+  height: 600px;
+  margin:0 auto;
+  background-color: lightgray;
+  text-align: center;
+}
+
+#result-form h2 {
+  font-family: "Noto Serif JP";
+  
+}
+#result-form img {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 200px;
+}
+
+/* Final View */
+
+.final-title {
+  font-family: "Noto Serif JP";
+  text-align: center;
+}
+
+.final-classLeader {
+  font-family: "Noto Serif JP";
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.emagency-mission {
+  height: 50px;
+  width: 90%;
+  margin:0 auto;
+  font-size: 12px;
+  background-color: #ff4343;
+}
+
+#top-bg {
+  background-image: url(./Images/yoshizawa_teacher.jpg);
+  background-size: cover;
+}
