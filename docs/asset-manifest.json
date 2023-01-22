@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YoshizawaQuest/static/css/main.b0c6a39c.css",
+    "main.js": "/YoshizawaQuest/static/js/main.8030d694.js",
+    "static/media/yoshizawa_teacher.jpg": "/YoshizawaQuest/static/media/yoshizawa_teacher.abcce3ed02d148143806.jpg",
+    "static/media/correct.png": "/YoshizawaQuest/static/media/correct.49f8aba3b203f9b57a64.png",
+    "static/media/incorrect.png": "/YoshizawaQuest/static/media/incorrect.fd07a070c14188b010c7.png",
+    "index.html": "/YoshizawaQuest/index.html",
+    "main.b0c6a39c.css.map": "/YoshizawaQuest/static/css/main.b0c6a39c.css.map",
+    "main.8030d694.js.map": "/YoshizawaQuest/static/js/main.8030d694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0c6a39c.css",
+    "static/js/main.8030d694.js"
+  ]
+}
